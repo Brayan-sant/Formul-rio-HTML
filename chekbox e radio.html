@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Caixas de Seleção </title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1> Você selecionou: Pizza de Calabresa </h1>
+
+        <p><font size="5">
+            Quais opcionais você deseja?
+        </font></p>
+
+        <form method="get ">
+             <input type="checkbox" disabled name="opcional[]" value="queijo"/> + queijo <br> 
+             <input type="checkbox" name="opcional[]" value="calabresa"/> + calabresa <br>
+             <input type="checkbox" name="opcional[]" value="cebola"/> + cebola <br>
+             <input type="checkbox" name="opcional[]" value="azeitona"/> + azeitona <br>
+
+        <p><font size="5">
+            Borda recheada?
+        </font></p>
+
+            <input type="radio" name="borda" value="sim"/> Sim <br>
+            <input type="radio" name="borda" value="nao"/> Não <br>
+        
+        <p><font size="5">
+            Bebida
+        </font></p>
+
+            <input type="radio" name="bebida" value="suco"/> Suco <br>
+            <input type="radio" name="bebida" value="refrigerante"/> Refrigerante <br>
+            <input type="radio" name="bebida" value="agua"/> Água <br>
+            <input type="radio" name="bebida" value="nenhum"/> Nenhum <br>
+
+            <br>
+
+            <input type="submit" value="Enviar pedido"/>
+
+        </form>
+    
+        <p><a href="index.html">
+            Página inicial
+        </a></p>
+    </body>
+</html>

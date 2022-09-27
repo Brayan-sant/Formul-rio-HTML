@@ -7,12 +7,29 @@
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
+        <p><a href="chekbox e radio.html">
+            Pedido de Pizza
+        </a></p>
+        <br>
         <form name="singup" onsubmit="alert ('enviei o formulário');" method="post" action="#"> 
             Nome: <input type="text" name="name"/><br>
-            Idade: <input type="number" name="age"/><br>
+            Idade: <input type="number" name="age" min="0" max ="140" step="10" /><br>
             Senha: <input type="password" name="password"/><br>
 
-            <button type="submit"> Enviar </button>
+            Botão: <button type="submit"> Enviar </button> <br>
+            <input type="button" value="Enviar"/> <br>
+            Range: <input type="range"/> <br>
+             Color:<input type="color"/><br>
+             E-mail: <input type="email"/>
+             Url: <input type="url" /> 
+             Data: <input type="date" />
+             Week: <input type="week"/>
+             Month: <input type="month"/><br>
+             Chekbox: <input type="checkbox"/> <input type="checkbox"/> 
+             Radio: <input type="radio" name="aceita"/> <input type="radio" name="aceia"/> <br>
+             Hidden: <input type="hidden"/> <br>
+             File <input type="file" />
+            Search <input type="search" /> 
         </form>
     </body>
 </html>
