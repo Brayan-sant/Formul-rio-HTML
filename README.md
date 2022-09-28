@@ -2,6 +2,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; **1-** [_Trabalhando com Formulários_](https://github.com/Brayan-sant/Formul-rio-HTML/blob/master/index.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **2-** 
+&nbsp;&nbsp;&nbsp;&nbsp; **2-** Estruturando HTML (formatações)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **3-**
