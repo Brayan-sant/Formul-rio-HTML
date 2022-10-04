@@ -4,4 +4,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2-** [_Estruturando HTML (formatações)_](https://github.com/Brayan-sant/Estruturando-HTML/blob/master/index.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **3-**
+&nbsp;&nbsp;&nbsp;&nbsp; **3-** _Trabalhando com Mídias_
